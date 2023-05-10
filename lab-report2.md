@@ -1,10 +1,19 @@
 # Lab Report 2 | Servers and Bug
 ## Part 1 | Using a Server
 
-1) The code web server for StringServer that will allow the user to add messages. I ripped most of the code from Serverr.java to help aid me
-![Image](StringServer code.png)
-![Image](sob 1.png)
-![Image](sob 2.png)
+1) The code web server for `StringServer.java` that will allow the user to add messages. I ripped most of the code from `Server.java` to help aid me
+![Image](code1.png)
+![Image](code2.png)
+
+2) Screenshot of using `/add-message` on the URL that added the text "Sob"
+
+![Image](sob1.png)
+- The method that is called is `public String handleRequest`, which checks the URl if it contains `/` and will return the list of messages 
+
+3) Screenshot of using `/add-message` on the URL to add "in the bathroom LOL"
+
+![Image](sob2.png)
+
 ## Part 2 | Examining ArrayTests.java Bug
 I chose to examine the bug from testReversed() method from ArrayExamples.java
 
