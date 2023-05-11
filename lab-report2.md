@@ -1,4 +1,4 @@
-# Lab Report 2 | Servers and Bug
+# Lab Report 2 | Servers and Bug - Renato Pimentel 
 ## Part 1 | Using a Server
 
 1) The code web server for `StringServer.java` that will allow the user to add messages. I ripped most of the code from `Server.java` to help aid me
